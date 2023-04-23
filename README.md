@@ -1,4 +1,4 @@
-## Hello World! I'm Alex
+# Hello World! I'm Alex
 
 - 🔭 Back-end.
 - 🌱 Studying C#
