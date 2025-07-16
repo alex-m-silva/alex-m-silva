@@ -2,39 +2,43 @@
   <img src="https://user-images.githubusercontent.com/74038190/212402117-bf8bc7ed-7e7f-4b6f-8ed8-4f9bfb7c1067.gif" width="100%">
 </h1>
 
-<h2 align="center">👾 Alex Matias – Developer from Another Dimension 👽</h2>
+<h2 align="center">Alex Matias – .NET Developer</h2>
 
 <p align="center">
-  <b>Desenvolvedor .NET, fã de aliens, astrologia e tecnologia futurista.</b><br>
-  Codificando para transformar ideias em realidades digitais.
+  Desenvolvedor focado em soluções robustas com .NET, C# e SQL.<br>
+  Experiência prática em sistemas corporativos, automação de processos e modernização de aplicações legadas.
 </p>
 
 ---
 
-### 🌌 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-🛸 Meu nome é **Alex Matias**, sou desenvolvedor apaixonado por C#, bancos de dados e pela jornada de aprender sempre.
-Sou curioso por natureza, apaixonado por ficção científica, humor ácido e tecnologia que parece saída de um filme cyberpunk 👾.
+Sou **Alex Matias**, desenvolvedor com experiência em **C#**, **.NET Framework/Core**, **SQL Server** e **MySQL**, atuando principalmente em sistemas de apoio à **produção, expedição, laboratório** e **setores administrativos**.
 
-- 💻 Atualmente trabalho com **.NET (Framework & Core)**, **MySQL**, **EF Core** e **VB6** (legado com honra).
-- 🧠 Estudando **Clean Architecture**, **Azure**, **DevOps** e **design moderno para interfaces**.
-- 🚀 Buscando me tornar um programador de elite.
+Tenho sólida base em **programação orientada a objetos**, **arquitetura MVP/MVVM**, e versionamento com **Git/GitFlow**. Busco sempre aplicar boas práticas de desenvolvimento, mantendo o foco em performance, legibilidade e manutenção de código.
+
+- 💻 Desenvolvimento de microserviços, aplicações desktop e rotinas integradas ao ERP **Datasul TOTVS**.
+- 🔄 Experiência com migração de sistemas legados em VB6/VB.NET para arquiteturas modernas em C#.
+- 📊 Forte atuação com bancos de dados relacionais, modelagem, views, procedures e triggers otimizadas.
+- 📦 Familiaridade com automação de tarefas, controle de inventário, geração de relatórios e integração de sistemas.
+- 🎯 Em constante aprimoramento técnico em áreas como **Clean Architecture**, **DevOps**, **Docker**, **Azure** e **design de interfaces**.
 
 ---
 
-### 🔥 Tecnologias que uso no meu dia a dia
+### 🧰 Tecnologias que utilizo
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Basic%206.0-A020F0?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </div>
 
 ---
 
-### 🚀 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-m-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -43,7 +47,7 @@ Sou curioso por natureza, apaixonado por ficção científica, humor ácido e te
 
 ---
 
-### 🌐 Onde me encontrar no multiverso:
+### 🌐 Contato
 
 <div align="center">
   <a target="_blank" href="https://instagram.com/alex.m.developer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -54,5 +58,4 @@ Sou curioso por natureza, apaixonado por ficção científica, humor ácido e te
 
 ---
 
-<h3 align="center">👨‍🚀 "Não sou apenas um dev. Sou um explorador do código e do cosmos." 🚀</h3>
-
+<h3 align="center">“Buscando sempre transformar conhecimento técnico em soluções reais e eficientes.”</h3>
