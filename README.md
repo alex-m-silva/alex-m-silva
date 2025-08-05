@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212402117-bf8bc7ed-7e7f-4b6f-8ed8-4f9bfb7c1067.gif" width="100%">
 </h1>
 
-<h2 align="center">Alex Matias – .NET Developer</h2>
+<h1 align="center">Alex Matias – .NET Developer</h1>
 
 <p align="center">
   Desenvolvedor focado em soluções robustas com .NET, C# e SQL.<br>
